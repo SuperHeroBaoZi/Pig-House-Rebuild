@@ -1,6 +1,6 @@
 # 猪人房重建 (Pig House Rebuild) v0.1.5
 
-Don't Starve Together 服务端 mod ｜ 作者 20404
+Don't Starve Together 服务端 mod
 
 ![预览图](preview.png)
 
